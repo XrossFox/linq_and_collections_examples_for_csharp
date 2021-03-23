@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvHhf5ic4DVlqfs3zYZ+lx2Z4O+EHpNGKcGRNe2iWO4IRNtJoBJlayuahnYeDDO53JS1ZEBF9atVwmMuqOSTwg==",
+  "success": true,
+  "projectFilePath": "C:\\David\\repos\\linq_and_collections_examples_for_csharp\\linq_and_collectionse_examples\\linq_and_collectionse_examples\\linq_and_collectionse_examples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
